@@ -6,3 +6,19 @@ html,body,#app{
     padding:0;
 }
 
+
+.bread{
+    margin-bottom:15px;
+}
+
+.pagination{
+    text-align: center;
+}
+
+.table-column{
+    text-align: center;
+}
+
+.el-pagination{
+    left:50%;
+}

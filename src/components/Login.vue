@@ -4,7 +4,7 @@
         
             <!--头像-->
             <div class="avator_box">
-                <img src="../assets/logo.png" alt="">
+                <img src="../assets/ava.jpg" alt="">
             </div>
         
 
